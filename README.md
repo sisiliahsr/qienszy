@@ -51,7 +51,7 @@
 
 | Sisy's Stats | Most Used Languages |
 |---|---|
-| ![Sisy's Stat](https://github-readme-stats-sigma-five.vercel.app/api?username=sisiliahsr&show_icons=true&rank_icon=percentile&theme=omni) | ![Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sisiliahsr&theme=omni&layout=compact) |
+| ![Sisy's Stat](https://github-readme-stats-sigma-five.vercel.app/api?username=qienszy&show_icons=true&rank_icon=percentile&theme=omni) | ![Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qienszy&theme=omni&layout=compact) |
 
 ---
 
